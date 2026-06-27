@@ -1,0 +1,13 @@
+node_modules
+android
+ios
+.expo
+.expo-shared
+npm-debug.log
+yarn-error.log
+.git
+.vscode
+.idea
+AppData
+**/AppData
+C:\Users
